@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aatish Dhami
-- 👀 I’m interested in Software development.
+- 👀 I’m a former founder and full-stack engineer with broad experience.
 - 💞️ Please feel free to look around my public repositories.
 - 📫 Email: aatishkumardhami@gmail.com
 - Currently building my fully automated personal finance app to automate my finances.
